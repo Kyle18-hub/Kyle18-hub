@@ -1,9 +1,8 @@
-# Hello, I'm Kyle Bessa
+# Introduction
+
+Hey there, my name is Kyle Bessa. I have recently uncovered a deep passion for cybersecurity, which has driven me to dive into various projects in this field. Below is a showcase of the work I’ve done, reflecting my growing expertise and commitment to mastering cybersecurity.
+
 <a href="www.linkedin.com/in/kyle-bessa-526a9121b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
