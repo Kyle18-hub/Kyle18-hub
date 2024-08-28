@@ -52,4 +52,4 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 ## Projects
 - Detection Lab <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>
-- SOC Automation Project
+- SOC Automation Project <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>
