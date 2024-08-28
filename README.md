@@ -16,13 +16,12 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+| Case Management with TheHive                  | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -33,15 +32,31 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <!-- Sysmon -->
+<a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon">
+    <img src="https://img.shields.io/badge/-Sysmon-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" /> </a>
+    
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <!-- VirtualBox -->
+<a href="https://www.virtualbox.org/">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</a>
+
+<!-- Wazuh -->
+<a href="https://wazuh.com/">
+    <img src="https://img.shields.io/badge/-Wazuh-4F8A10?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</a>
+</div>
+
+### Incident Response
+<!-- TheHive -->
+</div>
+<a href="https://thehive-project.org/">
+    <img src="https://img.shields.io/badge/-TheHive-F1C232?&style=for-the-badge&logo=TheHive&logoColor=black" />
+</a>
 </div>
 
 ## Certifications
@@ -51,5 +66,5 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 </div>
 
 ## Projects
-- Detection Lab <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>
-- SOC Automation Project <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>
+- <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>
+- <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>
