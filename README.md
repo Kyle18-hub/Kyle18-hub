@@ -1,18 +1,18 @@
 # Introduction
 
-Hey there, my name is Kyle Bessa. I have recently uncovered a deep passion for cybersecurity, which has driven me to dive into various projects in this field. Below is a showcase of the work I’ve done, reflecting my growing expertise and commitment to mastering cybersecurity.
+Hi, I'm Kyle Bessa. Coming from a family deeply rooted in the IT industry, there's a saying in our house: "All Bessas end up in IT". This has now come full circle for me as I’ve recently uncovered a profound passion for cybersecurity. This discovery has driven me to immerse myself in various projects, honing my skills and expertise in this dynamic field. Below is a showcase of my work, reflecting my growing knowledge and dedication to mastering cybersecurity.
 
-<a href="www.linkedin.com/in/kyle-bessa-526a9121b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# My LinkedIn profile:
+<a href="https://www.linkedin.com/in/kyle-bessa-526a9121b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in the study of the IT field has led me to develop a passion for cybersecurity. I am eager to begin a career in this field, specifically aiming to join a Security Operations Center (SOC) as an analyst. Cybersecurity is critically important in today's digital world. As we increasingly adopt a digital lifestyle and move essential infrastructure online—like medical records and banking—the threat of cyberattacks continues to grow. This makes safeguarding cyberspace more crucial than ever.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -47,11 +47,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
 ## Projects
