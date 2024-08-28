@@ -10,7 +10,7 @@ Hi, I'm Kyle Bessa. Coming from a family deeply rooted in the IT industry, there
 My journey in the study of the IT field has led me to develop a passion for cybersecurity. I am eager to begin a career in this field, specifically aiming to join a Security Operations Center (SOC) as an analyst. Cybersecurity is critically important in today's digital world. As we increasingly adopt a digital lifestyle and move essential infrastructure online—like medical records and banking—the threat of cyberattacks continues to grow. This makes safeguarding cyberspace more crucial than ever.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
@@ -60,7 +60,6 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
