@@ -61,7 +61,9 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <a href="https://coursera.org/share/91de9ad3af176061267aeb7e910e4ccf" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  </a>
 </div>
 
 ## Projects
