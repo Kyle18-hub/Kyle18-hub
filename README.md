@@ -45,6 +45,12 @@ My journey in the study of the IT field has led me to develop a passion for cybe
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </a>
 
+<a href="https://www.elastic.co/">
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
+
+</a>
+
 <!-- Wazuh -->
 <a href="https://wazuh.com/">
     <img src="https://img.shields.io/badge/-Wazuh-4F8A10?&style=for-the-badge&logo=Wazuh&logoColor=white" />
@@ -64,6 +70,10 @@ My journey in the study of the IT field has led me to develop a passion for cybe
   <a href="https://coursera.org/share/91de9ad3af176061267aeb7e910e4ccf" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
   </a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/F7GB53JMJGT2" target="_blank">
+  <img src="https://img.shields.io/badge/-IBM%20%26%20ISC2%20Cybersecurity-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+</a>
+
 </div>
 
 ## Projects
