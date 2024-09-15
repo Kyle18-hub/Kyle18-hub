@@ -44,12 +44,18 @@ My journey in the study of the IT field has led me to develop a passion for cybe
     
 </div>
 
-### SIEM
-<div>
-  <!-- VirtualBox -->
+### Virtualization
 <a href="https://www.virtualbox.org/">
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </a>
+
+<a href="https://www.kali.org/get-kali/#kali-installer-images" target="_blank">
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</a>
+
+
+### SIEM
+<div>
 
 <a href="https://www.elastic.co/">
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
@@ -70,6 +76,7 @@ My journey in the study of the IT field has led me to develop a passion for cybe
     <img src="https://img.shields.io/badge/-TheHive-F1C232?&style=for-the-badge&logo=TheHive&logoColor=black" />
 </a>
 </div>
+
 
 ## Certifications
 <div>
