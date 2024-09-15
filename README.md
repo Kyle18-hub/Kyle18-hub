@@ -16,7 +16,7 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+| Security Automation          | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Case Management with TheHive                  | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
@@ -51,6 +51,9 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 <a href="https://www.kali.org/get-kali/#kali-installer-images" target="_blank">
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</a>
+<a href="https://www.microsoft.com/pt-pt/software-download/windows10" target="_blank">
+    <img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </a>
 
 
