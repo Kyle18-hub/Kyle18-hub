@@ -11,15 +11,15 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 ## Skills
 
-
 | Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Kyle18-hub/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Kyle18-hub/Detection-Lab/blob/main/README.md">Detection Lab</a> |
 | Security Automation          | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Case Management with TheHive                  | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+
 
 ## Tools
 
