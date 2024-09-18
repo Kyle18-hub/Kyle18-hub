@@ -19,6 +19,8 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 | Incident Response Planning and Execution      | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Case Management with TheHive                  | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>|
+| Root Cause Analysis and Mitigation | <a href="https://github.com/Kyle18-hub/Incident-Handlers-Journal/blob/main/README.md">Incident Handlers Journal </a> |
+| Post-Incident Analysis and Reporting | <a href="https://github.com/Kyle18-hub/Incident-Handlers-Journal/blob/main/README.md">Incident Handlers Journal  </a> |
 
 
 ## Tools
@@ -95,3 +97,4 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 ## Projects
 - <a href="https://github.com/Kyle18-hub/Detection-Lab/edit/main/README.md">Detection Lab</a>
 - <a href="https://github.com/Kyle18-hub/SOC-Automation-Lab/blob/main/README.md">SOC Automation Project </a>
+- <a href="https://github.com/Kyle18-hub/Incident-Handlers-Journal/blob/main/README.md">Incident Handlers Journal  </a> 
