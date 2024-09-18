@@ -11,7 +11,7 @@ My journey in the study of the IT field has led me to develop a passion for cybe
 
 ## Skills
 
-| Skill                                         | Project         |
+| **Skill**                                     | **Project**         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Kyle18-hub/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Kyle18-hub/Detection-Lab/blob/main/README.md">Detection Lab</a> |
